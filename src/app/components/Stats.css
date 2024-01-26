@@ -1,0 +1,11 @@
+.stats {
+    padding: 20px;
+}  
+.stats p {
+    margin: 5px 0;
+}
+.stats-header {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+  

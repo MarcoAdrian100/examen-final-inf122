@@ -1,0 +1,12 @@
+.about {
+    padding: 20px;
+    border-top: 1px solid #e0e0e0;
+}
+  
+.about p {
+    margin: 10px 0;
+}  
+.about-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}  
